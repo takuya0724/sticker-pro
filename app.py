@@ -1,1 +1,3 @@
-print("Sticker Pro 起動準備完了!")
+print("StickerPro")
+print("AI LINEスタンプ作成ツール")
+print("開発中...")
